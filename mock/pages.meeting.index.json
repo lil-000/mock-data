@@ -1,0 +1,70 @@
+{
+  "createMeetingList": [
+    {
+      "title": "上海地区会议",
+      "type": "全国会",
+      "mode": "线上",
+      "time": "2020.10.20-2010.11.1",
+      "status": 1,
+      "applyPerson": "张三"
+    },
+    {
+      "title": "重庆地区会议",
+      "type": "第三方会议",
+      "mode": "线下",
+      "time": "2020.10.20-2010.11.1",
+      "status": 2,
+      "applyPerson": "里斯"
+    }
+  ],
+  "approveMeetingList": [
+    {
+      "title": "上海地区会议",
+      "type": "全国会",
+      "mode": "线上",
+      "time": "2020.10.20-2010.11.1",
+      "applyPerson": "张三"
+    },
+    {
+      "title": "重庆地区会议",
+      "type": "第三方会议",
+      "mode": "线下",
+      "time": "2020.10.20-2010.11.1",
+      "applyPerson": "里斯"
+    },
+    {
+      "title": "上海地区会议",
+      "type": "全国会",
+      "mode": "线上",
+      "time": "2020.10.20-2010.11.1",
+      "applyPerson": "wink"
+    },
+    {
+      "title": "重庆地区会议",
+      "type": "第三方会议",
+      "mode": "线下",
+      "time": "2020.10.20-2010.11.1",
+      "applyPerson": "snake"
+    }
+  ],
+  "readyMeetingList": [
+    {
+      "title": "上海地区会议",
+      "type": "全国会",
+      "mode": "线上",
+      "time": "2020.10.20-2010.11.1",
+      "applyPerson": "张三"
+    }
+  ],
+  "actionMeetingList": [],
+  "afterMeetingList": [],
+  "completeMeetingList": [
+    {
+      "title": "上海地区会议",
+      "type": "全国会",
+      "mode": "线上",
+      "time": "2020.10.20-2010.11.1",
+      "applyPerson": "张三"
+    }
+  ]
+}

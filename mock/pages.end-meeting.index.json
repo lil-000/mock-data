@@ -1,0 +1,19 @@
+{
+  "SpeakerEvaluation": [
+    {
+      "name": "李思雨",
+      "skill": 4,
+      "pleased": 3
+    },
+    {
+      "name": "郑再涵",
+      "skill": 4,
+      "pleased": 3
+    },
+    {
+      "name": "云溪间",
+      "skill": 4,
+      "pleased": 3
+    }
+  ]
+}

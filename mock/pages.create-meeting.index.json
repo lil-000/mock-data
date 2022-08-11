@@ -1,0 +1,134 @@
+{
+  "scheduleInfo": [
+    {
+      "time": "2022.07.24",
+      "meeting": [
+        {
+          "title": "主会场：雅思兰迪大酒店-聚财厅",
+          "schedule": [
+            {
+              "title": "9:00 - 12:00 开场",
+              "subTitle": "主持人 超玉玲",
+              "materialList": [{ "name": "资料1" }, { "name": "资料2" }]
+            }
+          ]
+        },
+        {
+          "title": "分会场：雅思兰迪大酒店-宋博厅",
+          "schedule": [
+            {
+              "title": "9:00 - 12:00 开场",
+              "subTitle": "主持人 超玉玲",
+              "materialList": [{ "name": "资料名称" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "time": "2022.07.25",
+      "meeting": [
+        {
+          "title": "主会场：雅思兰迪大酒店-宋博厅",
+          "schedule": [
+            {
+              "title": "9:00 - 12:00 开场",
+              "subTitle": "主持人 超玉玲",
+              "materialList": [{ "name": "资料名称" }]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "selectedDoctors": [
+    {
+      "name": "名称",
+      "title": "职称",
+      "level": "lV.4",
+      "desc": "介绍介绍介绍介绍介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人1"
+    },
+    {
+      "name": "名称2",
+      "title": "职称2",
+      "level": "lV.2",
+      "desc": "介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人2"
+    }
+  ],
+  "selectedStaffs": [
+    {
+      "area": "西南大区",
+      "name": "名称",
+      "entitle": "销售代表"
+    },
+    {
+      "area": "上海大区",
+      "name": "名称",
+      "entitle": "销售代表"
+    },
+    {
+      "area": "中部大区",
+      "name": "名称",
+      "entitle": "销售代表"
+    }
+  ],
+  "POFeeList": [
+    {
+      "title": "推广费用-区域会-场地租赁费",
+      "totalFee": 12,
+      "item1": {
+        "title": "跨区域交流奖金池[2212345]",
+        "cost": 22
+      },
+      "item2": "市场部精神产品线PSY",
+      "item3": "[B]Brintelix",
+      "item4": "费用描述：场地租赁费"
+    },
+    {
+      "title": "推广费用-区域会-场地租赁费",
+      "totalFee": 12321,
+      "item1": {
+        "title": "跨区域交流奖金池[2212345]",
+        "cost": 12312
+      },
+      "item2": "市场部精神产品线PSY",
+      "item3": "[B]Brintelix",
+      "item4": "费用描述：场地租赁费"
+    }
+  ],
+  "meetingInfo": {
+    "productList": ["新达悦", "安齐来", "来士普", "一杯神"]
+  }
+}

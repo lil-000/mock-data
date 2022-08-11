@@ -1,0 +1,217 @@
+{
+  "bannerUrl": "http://img.snake3g.club/huhan/1659597927289-WeChat39ad12a400d013d44e88f81e3cf160d5.png",
+  "prepare": {
+    "onlineDoctorSpeakerList": [
+      {
+        "name": "名称",
+        "title": "职称",
+        "level": "lV.4",
+        "desc": "介绍介绍介绍介绍介绍介绍介绍介绍",
+        "tags": [
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          }
+        ],
+        "entitle": "主席",
+        "responsible": "负责人1"
+      },
+      {
+        "name": "名称2",
+        "title": "职称2",
+        "level": "lV.2",
+        "desc": "介绍介绍介绍介绍",
+        "tags": [
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          }
+        ],
+        "entitle": "主席",
+        "responsible": "负责人2"
+      }
+    ],
+    "offlineDoctorSpeakerList": [
+      {
+        "name": "名称",
+        "title": "职称",
+        "level": "lV.4",
+        "desc": "介绍介绍介绍介绍介绍介绍介绍介绍",
+        "tags": [
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          }
+        ],
+        "entitle": "主席",
+        "responsible": "负责人1"
+      },
+      {
+        "name": "名称2",
+        "title": "职称2",
+        "level": "lV.2",
+        "desc": "介绍介绍介绍介绍",
+        "tags": [
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          }
+        ],
+        "entitle": "主席",
+        "responsible": "负责人2"
+      }
+    ],
+    "roomInfo": [
+      {
+        "title": "2022.07.15",
+        "rooms": [
+          "主会场：雅思兰迪大酒店-聚财厅",
+          "分会场：雅思兰迪大酒店-聚财厅"
+        ]
+      },
+      {
+        "title": "2022.07.16",
+        "rooms": ["主会场：雅思兰迪大酒店-聚财厅"]
+      }
+    ],
+    "participantDoctorList": [
+      {
+        "name": "名称2",
+        "title": "职称2",
+        "level": "lV.2",
+        "desc": "上海市第一人民医院-精神科",
+        "tags": [
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          }
+        ],
+        "entitle": "主席",
+        "responsible": "负责人2",
+        "inviteInfo": {
+          "channel": "企业微信",
+          "inviteCount": 1,
+          "registerStatus": "成功"
+        }
+      },
+      {
+        "name": "名称2",
+        "title": "职称2",
+        "level": "lV.2",
+        "desc": "上海市第一人民医院",
+        "tags": [
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          },
+          {
+            "name": "来士普",
+            "level": "c3"
+          }
+        ],
+        "entitle": "主席",
+        "responsible": "负责人2",
+        "inviteInfo": {
+          "channel": "公众号",
+          "inviteCount": 4,
+          "registerStatus": "成功"
+        }
+      }
+    ],
+    "paticipantStaffList": [
+      {
+        "name": "张三",
+        "department": "行政部门",
+        "work": "帮助邀约   会场帮助"
+      },
+      {
+        "name": "张三",
+        "department": "行政部门",
+        "work": "帮助邀约   会场帮助"
+      }
+    ],
+    "questionnaire": ["问卷《耐药性问卷》", "问卷《耐药性问卷》"],
+    "prepareReading": [
+      {
+        "time": "07.17  09:00",
+        "content": "《救死扶伤准则》"
+      },
+      {
+        "time": "07.178  10:00",
+        "content": "《救死扶伤准则》"
+      }
+    ],
+    "meetingActivity": [
+      {
+        "type": "text",
+        "content": "问卷《问卷调查》"
+      },
+      {
+        "type": "link",
+        "content": "www.315sfs.com"
+      }
+    ]
+  },
+  "meetingMsg": {
+    "title": "上海地区会议",
+    "meetingType": "区域会",
+    "applyPerson": "赵雨淋",
+    "chargePerson": "王阳菜",
+    "position": "上海 雅思兰迪大酒店-聚财厅",
+    "time": "2022.07.15-2022.07.18",
+    "speakersNumber": {
+      "plan": 5,
+      "invited": 5,
+      "comfirm": 10
+    },
+    "doctorNumber": {
+      "plan": 5,
+      "invited": 5,
+      "comfirm": 10
+    }
+  }
+}

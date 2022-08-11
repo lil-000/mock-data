@@ -1,0 +1,140 @@
+{
+  "wechat": [
+    {
+      "name": "名称",
+      "title": "职称",
+      "level": "lV.4",
+      "desc": "介绍介绍介绍介绍介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人1"
+    },
+    {
+      "name": "名称2",
+      "title": "职称2",
+      "level": "lV.2",
+      "desc": "介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人2"
+    }
+  ],
+  "offline": [
+    {
+      "name": "名称",
+      "title": "职称",
+      "level": "lV.4",
+      "desc": "介绍介绍介绍介绍介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人1"
+    },
+    {
+      "name": "名称2",
+      "title": "职称2",
+      "level": "lV.2",
+      "desc": "介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人2"
+    }
+  ],
+  "enterpriseWechat": [
+    {
+      "name": "名称",
+      "title": "职称",
+      "level": "lV.4",
+      "desc": "介绍介绍介绍介绍介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人1"
+    },
+    {
+      "name": "名称2",
+      "title": "职称2",
+      "level": "lV.2",
+      "desc": "介绍介绍介绍介绍",
+      "tags": [
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        },
+        {
+          "name": "来士普",
+          "level": "c3"
+        }
+      ],
+      "entitle": "主席",
+      "responsible": "负责人2"
+    }
+  ]
+}
